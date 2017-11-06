@@ -1,0 +1,26 @@
+
+.QToolButton {
+     background-color: #87c1fd;
+     border-style: solid;
+     border-radius: 5px;
+     }
+.QToolButton:pressed {
+     background-color: gray;
+     border-style: inset;
+     }
+.QToolButton:hover {
+     background-color: red;
+     border-style: inset;
+}
+
+.QProgressBar {
+    border: 1px solid grey;
+    border-radius: 5px;
+    text-align: center;
+    max-height:10px;
+}
+
+.QProgressBar::chunk {
+    background-color: gray;
+    width: 20px;
+}

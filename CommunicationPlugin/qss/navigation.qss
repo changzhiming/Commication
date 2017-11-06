@@ -1,0 +1,96 @@
+QToolButton#toolButtonzh{
+        margin: 5px;
+        border-image: url(:/image/navigationMain/zonghe_normal.svg);
+}
+QToolButton#toolButtonzh:hover
+{
+        border-image: url(:/image/navigationMain/zonghe_move.svg);
+}
+
+QToolButton#toolButtonzh:checked{
+        border-image: url(:/image/navigationMain/zonghe_down.svg);
+}
+QToolButton#toolButtonzh:pressed{
+        border-image: url(:/image/navigationMain/zonghe_down.svg);
+}
+QToolButton#toolButtonchat{
+        margin: 5px;
+        border-image: url(:/image/navigationMain/talk_mormal.svg);
+}
+QToolButton#toolButtonchat:hover
+{
+        border-image: url(:/image/navigationMain/talk_move.svg);
+}
+
+QToolButton#toolButtonchat:checked{
+        border-image: url(:/image/navigationMain/talk_down.svg);
+}
+QToolButton#toolButtonchat:pressed{
+        border-image: url(:/image/navigationMain/talk_down.svg);
+}
+
+
+QToolButton#toolButtongg{
+        margin: 5px;
+        border-image: url(:/image/navigationMain/gongao_normal.svg);
+}
+QToolButton#toolButtongg:hover
+{
+        border-image: url(:/image/navigationMain/gongao_move.svg);
+}
+
+QToolButton#toolButtongg:checked{
+        border-image: url(:/image/navigationMain/gonggao_down.svg);
+}
+QToolButton#toolButtongg:pressed{
+        border-image: url(:/image/navigationMain/gonggao_down.svg);
+}
+
+QToolButton#toolButtonwj{
+        margin: 5px;
+        border-image: url(:/image/navigationMain/wenjian_normal.svg);
+}
+QToolButton#toolButtonwj:hover
+{
+        border-image: url(:/image/navigationMain/wenjian_move.svg);
+}
+
+QToolButton#toolButtonwj:checked{
+        border-image: url(:/image/navigationMain/wenjian_down.svg);
+}
+QToolButton#toolButtonwj:pressed{
+        border-image: url(:/image/navigationMain/wenjian_down.svg);
+}
+
+QToolButton#toolButtonem{
+        margin: 5px;
+        border-image: url(:/image/navigationMain/email_normal.svg);
+}
+QToolButton#toolButtonem:hover
+{
+        border-image: url(:/image/navigationMain/email_move.svg);
+}
+
+QToolButton#toolButtonem:checked{
+        border-image: url(:/image/navigationMain/email_down.svg);
+}
+QToolButton#toolButtonem:pressed{
+        border-image: url(:/image/navigationMain/email_down.svg);
+}
+
+QToolButton#toolButtoncz{
+        margin: 5px;
+        border-image: url(:/image/navigationMain/chuanzhen_normal.svg);
+}
+QToolButton#toolButtoncz:hover
+{
+        border-image: url(:/image/navigationMain/chuanzhen_move.svg);
+}
+
+QToolButton#toolButtoncz:checked{
+        border-image: url(:/image/navigationMain/chuanzhen_down.svg);
+}
+QToolButton#toolButtoncz:pressed{
+        border-image: url(:/image/navigationMain/chuanzhen_down.svg);
+}
+

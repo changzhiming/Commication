@@ -1,0 +1,80 @@
+QFrame#frameCenter {
+    border-style: inset;
+    image-position: center;
+    border-width: 1px;
+    border-bottom-left-radius: 6px;
+    border-bottom-right-radius:6px;
+    border-color: #1f679f;
+    font: bold 14px;
+}
+QWidget#widget{
+    border-image: url(:/login/image/login/登陆条上.png);
+}
+QWidget#widget_2 {
+    border-image: url(:/login/image/login/登陆条下.png);
+    border-style: inset;
+    image-position: center;
+    border-bottom-left-radius: 6px;
+    border-bottom-right-radius:6px;
+}
+
+.QLineEdit{
+    font-size: 20px;
+}
+QToolButton#toolButtonClose{
+        border-image: url(:/login/image/login/cl无焦点正常状态.png);
+}
+QToolButton#toolButtonClose:hover
+{
+        border-image: url(:/login/image/login/cl有焦点.png);
+}
+
+QToolButton#toolButtonClose:pressed{
+        border-image: url(:/login/image/login/cl焦点down状态.png);
+}
+
+QToolButton#toolButtonMin{
+        border-image: url(:/login/image/login/sx无焦点正常状态.png);
+}
+
+QToolButton#toolButtonMin:hover
+{
+        border-image: url(:/login/image/login/sx有焦点.png);
+}
+QToolButton#toolButtonMin:pressed{
+        border-image: url(:/login/image/login/sx焦点down状态.png);
+}
+
+QToolButton#toolButtonRight{
+        border-image: url(:/icon/image/jtr .png);
+}
+QToolButton#toolButtonLeft{
+
+        border-image: url(:/icon/image/jt.png);
+}
+
+QPushButton#pushButton{
+        border-image: url(:/login/image/login/登录的正常状态.png);
+
+}
+QPushButton#pushButton:hover
+{
+        border-image: url(:/login/image/login/登陆move.png);
+}
+QPushButton#pushButton:pressed{
+
+        border-image: url(:/login/image/login/登录down按钮.png);
+}
+QPushButton#pushButton_2{
+        border-image: url(:/login/image/login/退出的正常状态.png);
+}
+QPushButton#pushButton_2:hover{
+        border-image: url(:/login/image/login/move.png);
+}
+QPushButton#pushButton_2:pressed{
+        border-image: url(:/login/image/login/down.png);
+}
+QLabel#loginerror{
+    color: red;font: bold \"Times New Roman\";
+    text-align: right center;
+}

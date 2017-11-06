@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/Communication/META-INF">
+        <file>MANIFEST.MF</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>image/navigationMain/chuanzhen_down.svg</file>
+        <file>image/navigationMain/chuanzhen_move.svg</file>
+        <file>image/navigationMain/email_down.svg</file>
+        <file>image/navigationMain/email_move.svg</file>
+        <file>image/navigationMain/email_normal.svg</file>
+        <file>image/navigationMain/gongao_move.svg</file>
+        <file>image/navigationMain/gongao_normal.svg</file>
+        <file>image/navigationMain/gonggao_down.svg</file>
+        <file>image/navigationMain/people_down.svg</file>
+        <file>image/navigationMain/people_move.svg</file>
+        <file>image/navigationMain/people_normal.svg</file>
+        <file>image/navigationMain/talk_down.svg</file>
+        <file>image/navigationMain/talk_mormal.svg</file>
+        <file>image/navigationMain/talk_move.svg</file>
+        <file>image/navigationMain/wenjian_down.svg</file>
+        <file>image/navigationMain/wenjian_move.svg</file>
+        <file>image/navigationMain/wenjian_normal.svg</file>
+        <file>image/navigationMain/zonghe_down.svg</file>
+        <file>image/navigationMain/zonghe_move.svg</file>
+        <file>image/navigationMain/zonghe_normal.svg</file>
+        <file>image/navigationMain/chuanzhen_normal.svg</file>
+    </qresource>
+</RCC>

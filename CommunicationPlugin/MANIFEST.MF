@@ -1,0 +1,9 @@
+Plugin-SymbolicName: Communication
+Plugin-ActivationPolicy: eager
+Plugin-Category: test
+Plugin-ContactAddress: http://www.commontk.org
+Plugin-Description: Test plugin for framework, Communication
+Plugin-Name: Communicaton
+Plugin-Vendor: CommonTK
+Plugin-Version: 1.0.1
+

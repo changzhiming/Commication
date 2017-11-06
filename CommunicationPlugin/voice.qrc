@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>voice/ringin.wav</file>
+        <file>voice/ringin2.wav</file>
+    </qresource>
+</RCC>

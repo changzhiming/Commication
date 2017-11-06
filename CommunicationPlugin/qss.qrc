@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qss/filetransferwidget.qss</file>
+        <file>qss/login.qss</file>
+        <file>qss/noticeTarget.qss</file>
+        <file>qss/navigation.qss</file>
+    </qresource>
+</RCC>
